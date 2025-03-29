@@ -1,2 +1,2 @@
 # kikade
-Bu and sell second hand goods
+Buy and sell second hand goods
